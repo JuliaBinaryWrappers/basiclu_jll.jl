@@ -1,143 +1,143 @@
 [[basiclu]]
 arch = "aarch64"
-git-tree-sha1 = "cde0dd4423d2ca4beefa717cd3029162f58c1d50"
+git-tree-sha1 = "ba4e8c663cc111461e76134c85ae6bfed8c68df7"
 os = "macos"
 
     [[basiclu.download]]
-    sha256 = "0d31c60de515fc62d58b6468eb5502386e623ce2c7d563374a25c7b8e4bcfa17"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "eadde7f21e44f46a8f62e6a8ea89676ba6df8592599546fd8278ec95c1f09b98"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.aarch64-apple-darwin.tar.gz"
 [[basiclu]]
 arch = "aarch64"
-git-tree-sha1 = "8ee08adf3a19742959ce08acdd0cba9149c7ae8f"
+git-tree-sha1 = "46f6b0f58e635e24d60d640931fe31044bfea99e"
 libc = "glibc"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "b85543ed981446f4537f661c1cda368c12ce5245773352558e233f8ba0c586c7"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "8fce2c98ba1a59936424a19fa62e89364e28b6fe5067261144556398ad799656"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.aarch64-linux-gnu.tar.gz"
 [[basiclu]]
 arch = "aarch64"
-git-tree-sha1 = "5f81b0394f8cbbdec90b36dec9d04f451be67a05"
+git-tree-sha1 = "94d474ecef94a9bfc87d40dc379f9fe6c1b7c611"
 libc = "musl"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "900a1a0fc61e5d5b48309ccf06db8f5e4dc604dd55854b9684005cf2cc2cfe9a"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.aarch64-linux-musl.tar.gz"
+    sha256 = "15e50661b3071574dc5320e25ccd4a5e4caa65c4ae71db4c6956cf2a4db760cc"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.aarch64-linux-musl.tar.gz"
 [[basiclu]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7b32ccd23e273a6db43aeb12cfa4e210556798f9"
+git-tree-sha1 = "2e15558bc99d156956a4cb622ee9d578a07c67e6"
 libc = "glibc"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "e283a5b10e0fa5828a120866973eee7deecd2905b547f0aea1ef73e3522dc22d"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "1fabcdefb8a079e66affbca0fe14a39a009eb23fbd75ae400891d8af2679753b"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.armv6l-linux-gnueabihf.tar.gz"
 [[basiclu]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8c4918186890acad98f35e1af3668dd0ac6d0ec0"
+git-tree-sha1 = "ccd44dc286f5e63ed00f453bb2ec5f23831ed64d"
 libc = "musl"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "efc2e45861dccb17755a5a67cc8ddfb1bc58bc781b73dfabb4131d8ac9b274fc"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "7e6e3fb4423edb6fc0e7fb466854e930e5ac20c97977bd9b152836dae94c019d"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.armv6l-linux-musleabihf.tar.gz"
 [[basiclu]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b13d28aae08d8fcb898994f861036470754d6edd"
+git-tree-sha1 = "7a64292697f2cd842aa0883914f9b652c83cb094"
 libc = "glibc"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "f70b9913d5a96658b5e786c64f208199a94fe57422b2adb78c7bb8a583369a78"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9d296e6f7d1ea563bad4760ab412f71e01899793cbd84e5d8e386265ef262b1f"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.armv7l-linux-gnueabihf.tar.gz"
 [[basiclu]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "9b00d54ebebd03e8026e29c1167d16746a448c8e"
+git-tree-sha1 = "d6958545e8325dcfab205791cee731fa19d708e4"
 libc = "musl"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "5b1b003b61ef677545f2b6e2e2bb6527dec825fc41318b94f8977afdf44f2fe0"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "9f7fcb16a53d113adb18cfad30377c56c9ae83ee78517972f8be847fc3be7855"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.armv7l-linux-musleabihf.tar.gz"
 [[basiclu]]
 arch = "i686"
-git-tree-sha1 = "0c2ab2a5e378ffb3ef87be63d5cabf1485683473"
+git-tree-sha1 = "b5c89fee9865d23fce5594b5e5563c8a522f0a41"
 libc = "glibc"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "94cd2457f4455bfe4f3c5ac6ae07c6f0c64a10c73609e34e07718dd0ee0576b1"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "d381bfbc11012fe470d48f6f51a19f4a912bad946e84ffd333e4f782abb2f73a"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.i686-linux-gnu.tar.gz"
 [[basiclu]]
 arch = "i686"
-git-tree-sha1 = "14cf25723fc1190b854dd2d0d31d390be1e6d476"
+git-tree-sha1 = "6f3b5db792a17637dd1762b7217111d6e5a485f7"
 libc = "musl"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "db53e15fb85cc3b2040b2f46207ea6c3ddad984b85b13070f96bff9f3fda9317"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.i686-linux-musl.tar.gz"
+    sha256 = "331d01106be397ae41ce13f43f405b264a765e19647befd8ebb04de80c01729d"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.i686-linux-musl.tar.gz"
 [[basiclu]]
 arch = "i686"
-git-tree-sha1 = "6b38b9ca714b634db5e68fcdc44c216b68ac320d"
+git-tree-sha1 = "f96f2ec6286f925ec59b74cabb0dc398a9389ab0"
 os = "windows"
 
     [[basiclu.download]]
-    sha256 = "311b51a984c5dcd6868312106183d8ec54b5a4a6b0daa1f6c382dd11d1f05885"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.i686-w64-mingw32.tar.gz"
+    sha256 = "5466b05b27f2c6a61176d9b62393520085413d41691572c75702d73ab28d730f"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.i686-w64-mingw32.tar.gz"
 [[basiclu]]
 arch = "powerpc64le"
-git-tree-sha1 = "0f9d0cd3cb815812d2766599a5047a1e62f7e738"
+git-tree-sha1 = "49cb1ca5ff30bf77ea4afa7a8b4dd8020549d3ff"
 libc = "glibc"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "87a23d034aa695ac2faecc6d37850badbe0ed4575963b01bc2608515b136f95b"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "0b40582fe0fdada93edfbc7ee64ca757f45bc5b1622fb58c4f4cf194944539e4"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.powerpc64le-linux-gnu.tar.gz"
 [[basiclu]]
 arch = "x86_64"
-git-tree-sha1 = "38a7bbce7f627a30c4f6d6dc4ef29502175c87a7"
+git-tree-sha1 = "573a5dc85d37efe0a1ed6524cdea364314a5d772"
 os = "macos"
 
     [[basiclu.download]]
-    sha256 = "68bc440fd5583a5cb3fc24352387f57c35e7fab51455af1f42c6e997a1dc4424"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "33782424adee8ad347fe009918e6476cfcff4a078140d02cc2552f50e6cbf09f"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.x86_64-apple-darwin.tar.gz"
 [[basiclu]]
 arch = "x86_64"
-git-tree-sha1 = "7b69e0160c2c97b98b3ee11e62b5752f73c7bef9"
+git-tree-sha1 = "8bbd135edf4a60b9a806cbadb563145cf38df649"
 libc = "glibc"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "cb3615582db6c504f266b3847e361616365d49a4d0828884bd37efa9ecacd6d6"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "ede601141f8758704687f0c12c7b21b2421af75577e5b39da47b4fd08ad7713c"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.x86_64-linux-gnu.tar.gz"
 [[basiclu]]
 arch = "x86_64"
-git-tree-sha1 = "8ddd13aa00a89391a48b71f4100cdce081f661f4"
+git-tree-sha1 = "93b862147ae18fd8e1d2a641c79d7ffdbf867d81"
 libc = "musl"
 os = "linux"
 
     [[basiclu.download]]
-    sha256 = "c9f0a65e03b2115ee78ef9b7aa984d1ce6206e23c5742f3293fc6be794aa78bd"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.x86_64-linux-musl.tar.gz"
+    sha256 = "24d57d12bab41bb8bd9f41f28eb8f837af08d8947d45eeacc1ef874beb245d4d"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.x86_64-linux-musl.tar.gz"
 [[basiclu]]
 arch = "x86_64"
-git-tree-sha1 = "0ac9eb7437ade5859b40eec060a0eedec5874896"
+git-tree-sha1 = "76bd26fc99c67bf6cb89cf69268c53f686fd1476"
 os = "freebsd"
 
     [[basiclu.download]]
-    sha256 = "bdb6e3005941be4fdb836f124c5c28928a5ec5c6a7c32d93086518239651054a"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "005c816b5a0d744c0f14be2f147ddc9d7cd47a17ab106eb0fb7f0408ec4b2c54"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.x86_64-unknown-freebsd.tar.gz"
 [[basiclu]]
 arch = "x86_64"
-git-tree-sha1 = "eb9d5b142f45bbe5f411d3737c4f560dbbb4f3e5"
+git-tree-sha1 = "d29e2a90d5b7a751125787f8812c57927851dabb"
 os = "windows"
 
     [[basiclu.download]]
-    sha256 = "fd63ed72c88906a86c43ea6eb2f491d4f6f8f4f3026292820456eef205c7f7e5"
-    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+1/basiclu.v2.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "cfd0f915efb4dd82dcfb346c437b8b871d954a984051d207da63951b4d47d9cf"
+    url = "https://github.com/JuliaBinaryWrappers/basiclu_jll.jl/releases/download/basiclu-v2.1.0+2/basiclu.v2.1.0.x86_64-w64-mingw32.tar.gz"
